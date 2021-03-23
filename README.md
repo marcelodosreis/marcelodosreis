@@ -8,9 +8,9 @@
 
 
 ```javascript
- <script>
-    alert('Hello, world!, my name is Marcelo dos Reis, im a Front-End Software Engineer 👋');
-  </script>
+<script>
+ alert('Hello, world!, my name is Marcelo dos Reis, im a Front-End Software Engineer 👋');
+</script>
  ```
 
 **Languages and Tools:**  

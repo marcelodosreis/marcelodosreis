@@ -9,7 +9,7 @@
 
 ```javascript
 <script>
- alert('Hello, world!, my name is Marcelo dos Reis, im a Front-End Software Engineer 👋');
+   alert('Hello, world!, my name is Marcelo dos Reis, im a Front-End Software Engineer 👋');
 </script>
  ```
 

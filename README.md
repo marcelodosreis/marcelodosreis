@@ -36,14 +36,12 @@
 ![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apache-kafka)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
  
- 
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelodosreis&theme=radical"/>
 
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelodosreis&theme=radical"/>
-
-<p align="left">
 <a href="https://github.com/marcelodosreis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=marcelodosreis&count_private=true&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelodosreis&layout=compact&langs_count=8&theme=radical"/>
+ <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=marcelodosreis&show_icons=true&theme=radical&line_height=28&count_private=true&include_all_commits=true" alt="Rastrian @ Github stats"/>
 </a>
-</p>
 
+<a href="https://github.com/marcelodosreis">
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelodosreis&theme=radical&layout=compact&langs_count=10" />
+</a>

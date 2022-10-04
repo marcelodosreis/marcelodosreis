@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/marcelodosreis)](https://github.com/marcelodosreis)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marceloh13/)](https://www.linkedin.com/in/marceloh13/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelohrpaulo13@gmail.com)](mailto:marcelohrpaulo13@gmail.com)
-[![Linkedin Badge](https://img.shields.io/github/followers/marcelodosreis?style=social)](https://www.linkedin.com/in/marceloh13/)
+[![GitHub Followers Badge](https://img.shields.io/github/followers/marcelodosreis?style=social)](https://www.linkedin.com/in/marceloh13/)
 
 
 

@@ -38,7 +38,7 @@
  
 
 <a href="https://github.com/marcelodosreis">
- <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=marcelodosreis&show_icons=true&theme=radical&line_height=28&count_private=true&include_all_commits=true" alt="Rastrian @ Github stats"/>
+ <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=marcelodosreis&show_icons=true&theme=radical&line_height=28&count_private=true&include_all_commits=true" />
 </a>
 
 <a href="https://github.com/marcelodosreis">

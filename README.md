@@ -8,13 +8,13 @@
 
 
 ```javascript
-<script> alert('Hello, world!, my name is Marcelo dos Reis, im a Front-End Software Engineer 👋'); </script>
+<script> alert('Hello, world!, my name is Marcelo dos Reis, im a Senior Software Engineer 👋'); </script>
  ```
 
 ### Languages & Tools 🛠
 ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
-![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![Elixir](https://img.shields.io/badge/-Elixir-05122A?style=flat&logo=Elixir)&nbsp;
 
@@ -22,6 +22,8 @@
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
 
+![NodeJs](https://img.shields.io/badge/-Node-05122A?style=flat&logo=Node.js)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=springboot)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
